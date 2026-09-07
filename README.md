@@ -45,7 +45,7 @@
 
 ## 🚀 Demo
 
-> **Live:** [yandev.my.id](https://yandez.my.id) — bagian **Music Player** & **Alight Motion Tools**
+> **Live:** [yandez.my.id](https://yandez.my.id) — bagian **Music Player** & **Alight Motion Tools**
 
 Pengunjung akan otomatis:
 - 📍 IP dicatat + notifikasi pengunjung baru ke Telegram
