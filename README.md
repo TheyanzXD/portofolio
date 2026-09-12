@@ -226,7 +226,7 @@ Tanpa secrets Telegram, fitur tersebut otomatis dilewati (logged ke console).
 
 | Platform | Link |
 |----------|------|
-| Website | [yandev.my.id](https://yandev.my.id) |
+| Website | [yandez.my.id](https://yandez.my.id) |
 | GitHub | [@TheyanzXD](https://github.com/TheyanzXD) |
 | Twitter | [@yanzxd](https://twitter.com/yanzxd) |
 | LinkedIn | [@muhammadizyan](https://linkedin.com/in/muhammadizyan) |
